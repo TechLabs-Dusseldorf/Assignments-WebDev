@@ -1,4 +1,4 @@
-Assignments Web Development
+# Assignments Web Development
 
 These assignments are **mandatory checkpoints** that verify your mastery of key concepts. Each assignment builds on the
 previous one, progressively expanding your toolkit from JavaScript fundamentals to full-stack development.
@@ -214,3 +214,5 @@ Response (200 OK): [updated resource object]
 **Bonus 2:** Error Middleware
 
 - Create a global error handler that catches database errors and returns a clean 500 response instead of crashing
+
+## Happy Coding ❤️
