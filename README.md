@@ -18,6 +18,7 @@ previous one, progressively expanding your toolkit from JavaScript fundamentals 
 - You are allowed to use AI to do your assignments provided you understand the solution - your're learning this for yourself
 - Code quality matters: clear variable names, no commented-out code, proper structure
 
+---
 
 ## 📝 Assignment 1: Article Analyzer (Week 2)
 
@@ -73,7 +74,7 @@ Use this text to verify your function works:
 
 **Bonus 2:** Accept command-line input instead of hardcoding strings
 
-
+---
 
 ## 📝 Assignment 2: React UI fundamentals (Week 4)
 
@@ -128,7 +129,7 @@ Each card should display:
 
 - Add a dropdown at the top to filter cards by category ("All", "Frontend", "Backend", etc.)
 
-
+---
 
 ## 📝 Assignment 3: Fundamentals REST API (Week 6)
 
