@@ -73,7 +73,7 @@ Use this text to verify your function works:
 
 **Bonus 2:** Accept command-line input instead of hardcoding strings
 
----
+
 
 ## 📝 Assignment 2: React UI fundamentals (Week 4)
 
@@ -128,7 +128,7 @@ Each card should display:
 
 - Add a dropdown at the top to filter cards by category ("All", "Frontend", "Backend", etc.)
 
----
+
 
 ## 📝 Assignment 3: Fundamentals REST API (Week 6)
 
