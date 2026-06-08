@@ -3,7 +3,6 @@
 These assignments are **mandatory checkpoints** that verify your mastery of key concepts. Each assignment builds on the
 previous one, progressively expanding your toolkit from JavaScript fundamentals to full-stack development.
 
----
 
 ## 📋 Submission Requirements (All Assignments)
 
@@ -19,7 +18,6 @@ previous one, progressively expanding your toolkit from JavaScript fundamentals 
 - You are allowed to use AI to do your assignments provided you understand the solution - your're learning this for yourself
 - Code quality matters: clear variable names, no commented-out code, proper structure
 
----
 
 ## 📝 Assignment 1: Article Analyzer (Week 2)
 
